@@ -1,0 +1,162 @@
+Subset of movies
+In Alphabetical Order
+From: D    To: Lassie
+
+Movie Name//Release Year//Movie ID//Genre|Genre|Genre//Alternat Name 1//Alternat Name 2//Alternat Name 3 
+
+Number of Movies found : 154
+Dances with Wolves//1990//590//Adventure|Drama|Western
+Dangerous Minds//1995//31//Drama
+Dave//1993//440//Comedy|Romance
+Daylight//1996//798//Action|Adventure|Drama|Thriller
+Dazed and Confused//1993//441//Comedy
+Dead Man//1995//714//Drama|Mystery|Western
+Dead Man Walking//1995//36//Crime|Drama
+Dead Presidents//1995//42//Action|Crime|Drama
+Dear Diary//1994//583//Comedy|Drama//Caro Diario 
+Death and the Maiden//1994//229//Drama|Thriller
+Delta of Venus//1995//698//Drama
+Demolition Man//1993//442//Action|Adventure|Sci-Fi
+Denise Calls Up//1995//633//Comedy
+Desperado//1995//163//Action|Romance|Western
+Destiny Turns on the Radio//1995//228//Comedy
+Devil in a Blue Dress//1995//164//Crime|Film-Noir|Mystery|Thriller
+Diabolique//1996//640//Drama|Thriller
+Die Hard: With a Vengeance//1995//165//Action|Crime|Thriller
+Disclosure//1994//225//Drama|Thriller
+Dolores Claiborne//1995//230//Drama|Thriller
+Don Juan DeMarco//1995//224//Comedy|Drama|Romance
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood//1996//63//Comedy|Crime
+Double Happiness//1994//341//Drama
+Down Periscope//1996//135//Comedy
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb//1964//750//Comedy|War
+Dracula: Dead and Loving It//1995//12//Comedy|Horror
+Dragonheart//1996//653//Action|Adventure|Fantasy
+Drop Zone//1994//227//Action|Thriller
+Dumb & Dumber//1994//231//Adventure|Comedy//Dumb and Dumber 
+Dunston Checks In//1996//87//Children|Comedy
+Eat Drink Man Woman//1994//232//Comedy|Drama|Romance//Yin shi nan nu 
+Ed//1996//619//Comedy
+Ed Wood//1994//235//Comedy|Drama
+Eddie//1996//656//Comedy
+Eraser//1996//786//Action|Drama|Thriller
+Even Cowgirls Get the Blues//1993//444//Comedy|Romance
+Executive Decision//1996//494//Action|Adventure|Thriller
+Exit to Eden//1994//234//Comedy
+Exotica//1994//233//Drama
+Eye for an Eye//1996//61//Drama|Thriller
+Fair Game//1995//71//Action
+Far From Home: The Adventures of Yellow Dog//1995//238//Adventure|Children
+Farewell My Concubine//1993//446//Drama|Romance//Ba wang bie ji 
+Fargo//1996//608//Comedy|Crime|Drama|Thriller
+Farinelli: il castrato//1994//242//Drama|Musical
+Faster Pussycat! Kill! Kill!//1965//390//Action|Crime|Drama
+Fatal Instinct//1993//445//Comedy
+Father of the Bride Part II//1995//5//Comedy
+Fear//1996//662//Thriller
+Fear of a Black Hat//1994//449//Comedy
+Fearless//1993//448//Drama
+Federal Hill//1994//406//Drama
+Feeling Minnesota//1996//697//Drama|Romance
+First Knight//1995//168//Action|Drama|Romance
+Flesh and Bone//1993//451//Drama|Mystery|Romance
+Flipper//1996//711//Adventure|Children
+Flirting With Disaster//1996//125//Comedy
+Fluke//1995//241//Children|Drama
+For Love or Money//1993//453//Comedy|Romance
+Forget Paris//1995//237//Comedy|Romance
+Forrest Gump//1994//356//Comedy|Drama|Romance|War
+Four Rooms//1995//18//Comedy
+Four Weddings and a Funeral//1994//357//Comedy|Romance
+Free Willy//1993//455//Adventure|Children|Drama
+Free Willy 2: The Adventure Home//1995//169//Adventure|Children|Drama
+French Kiss//1995//236//Action|Comedy|Romance
+French Twist//1995//68//Comedy|Romance//Gazon maudit 
+Fresh//1994//456//Crime|Drama|Thriller
+Friday//1995//69//Comedy
+Frisk//1995//636//Drama
+From Dusk Till Dawn//1996//70//Action|Comedy|Horror|Thriller
+Georgia//1995//55//Drama
+Germinal//1993//563//Drama|Romance
+Geronimo: An American Legend//1993//458//Drama|Western
+Get Shorty//1995//21//Comedy|Crime|Thriller
+Getting Even with Dad//1994//460//Comedy
+Ghost//1990//587//Comedy|Drama|Fantasy|Romance|Thriller
+Ghost in the Shell//1995//741//Animation|Sci-Fi//Kôkaku kidôtai 
+Girl 6//1996//639//Comedy|Drama
+Go Fish//1994//461//Drama|Romance
+GoldenEye//1995//10//Action|Adventure|Thriller
+Gordy//1995//243//Children|Comedy|Fantasy
+Grumpier Old Men//1995//3//Comedy|Romance
+Hackers//1995//170//Action|Adventure|Crime|Thriller
+Happy Gilmore//1996//104//Comedy
+Hard Target//1993//464//Action|Adventure|Crime|Thriller
+Harriet the Spy//1996//801//Children|Comedy
+Heat//1995//6//Action|Crime|Thriller
+Heaven's Prisoners//1996//731//Crime|Thriller
+Heavenly Creatures//1994//247//Crime|Drama
+Heavy//1995//764//Drama|Romance
+Heavy Metal//1981//610//Action|Adventure|Animation|Horror|Sci-Fi
+Heavyweights//1995//250//Children|Comedy//Heavy Weights 
+Heidi Fleiss: Hollywood Madam//1995//99//Documentary
+Hellraiser: Bloodline//1996//611//Action|Horror|Sci-Fi
+Hideaway//1995//240//Thriller
+Higher Learning//1995//358//Drama
+Highlander III: The Sorcerer//1994//405//Action|Fantasy//a.k.a. Highlander: The Final Dimension 
+Home Alone//1990//586//Children|Comedy
+Home for the Holidays//1995//57//Drama
+Homeward Bound II: Lost in San Francisco//1996//609//Adventure|Children
+Hoop Dreams//1994//246//Documentary
+Hot Shots! Part Deux//1993//466//Action|Comedy|War
+House Party 3//1994//470//Comedy
+Houseguest//1994//248//Comedy
+How to Make an American Quilt//1995//46//Drama|Romance
+I Like It Like That//1994//359//Comedy|Drama|Romance
+I Love Trouble//1994//360//Action|Comedy
+I Shot Andy Warhol//1996//766//Drama
+I'll Do Anything//1994//472//Comedy|Drama
+I.Q.//1994//252//Comedy|Romance
+If Lucy Fell//1996//118//Comedy|Romance
+Immortal Beloved//1994//249//Drama|Romance
+In the Army Now//1994//473//Comedy|War
+In the Bleak Midwinter//1995//96//Comedy|Drama
+In the Line of Fire//1993//474//Action|Thriller
+In the Mouth of Madness//1995//407//Horror|Thriller
+In the Name of the Father//1993//475//Drama
+In the Realm of the Senses//1976//495//Drama//Ai no corrida 
+Independence Day//1996//780//Action|Adventure|Sci-Fi|Thriller//a.k.a. ID4 
+Interview with the Vampire: The Vampire Chronicles//1994//253//Drama|Horror
+It Could Happen to You//1994//361//Comedy|Drama|Romance
+It Takes Two//1995//38//Children|Comedy
+It's My Party//1996//685//Drama
+Jack//1996//765//Comedy|Drama
+Jack and Sarah//1995//638//Romance
+Jade//1995//132//Thriller
+James and the Giant Peach//1996//661//Adventure|Animation|Children|Fantasy|Musical
+Jane Eyre//1996//613//Drama|Romance
+Jason's Lyric//1994//391//Crime|Drama
+Jefferson in Paris//1995//254//Drama
+Jeffrey//1995//171//Comedy|Drama
+Jimmy Hollywood//1994//478//Comedy|Crime|Drama
+Johnny Mnemonic//1995//172//Action|Sci-Fi|Thriller
+Judge Dredd//1995//173//Action|Crime|Sci-Fi
+Judgment Night//1993//479//Action|Crime|Thriller
+Jumanji//1995//2//Adventure|Children|Fantasy
+Junior//1994//256//Comedy|Sci-Fi
+Jupiter's Wife//1994//128//Documentary
+Jurassic Park//1993//480//Action|Adventure|Sci-Fi|Thriller
+Jury Duty//1995//174//Comedy
+Just Cause//1995//257//Mystery|Thriller
+Kalifornia//1993//481//Drama|Thriller
+Kicking and Screaming//1995//72//Comedy|Drama
+Kids//1995//175//Drama
+Kids in the Hall: Brain Candy//1996//663//Comedy
+Kika//1993//567//Comedy|Drama
+Killing Zoe//1994//482//Crime|Drama|Thriller
+Kingpin//1996//785//Comedy
+Kiss of Death//1995//259//Crime|Drama|Thriller
+Ladybird Ladybird//1994//263//Drama
+Lamerica//1994//53//Adventure|Drama
+Land and Freedom//1995//632//Drama|War//Tierra y libertad 
+Lassie//1994//484//Adventure|Children
+

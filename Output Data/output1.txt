@@ -1,0 +1,509 @@
+Full list of movies in alphabetical order
+Using Binary Tree Inorder Traversal
+
+Number of movies : 500
+
+In the order of
+Movie Name//Release Year//Movie ID//Genre|Genre|Genre//Alternat Name 1//Alternat Name 2//Alternat Name 3 
+
+'Til There Was You//1997//779//Drama|Romance
+8 Seconds//1994//408//Drama
+Above the Rim//1994//409//Crime|Drama
+Ace Ventura: Pet Detective//1994//344//Comedy
+Ace Ventura: When Nature Calls//1995//19//Comedy
+Addams Family Values//1993//410//Children|Comedy|Fantasy
+Airheads//1994//413//Comedy
+Aladdin//1992//588//Adventure|Animation|Children|Comedy|Musical
+All Dogs Go to Heaven 2//1996//631//Adventure|Animation|Children|Fantasy|Musical|Romance
+Amateur//1994//149//Crime|Drama|Thriller
+Andre//1994//577//Adventure|Children|Drama
+Angels and Insects//1995//85//Drama|Romance
+Angus//1995//700//Comedy
+Anne Frank Remembered//1995//116//Documentary
+Another Stakeout//1993//415//Comedy|Thriller
+Antonia's Line//1995//82//Comedy|Drama//Antonia 
+Apollo 13//1995//150//Adventure|Drama|IMAX
+Ashes of Time//1994//757//Drama//Dung che sai duk 
+Assassins//1995//23//Action|Crime|Thriller
+Babe//1995//34//Children|Drama
+Backbeat//1993//346//Drama|Musical
+Bad Boys//1995//145//Action|Comedy|Crime|Drama|Thriller
+Bad Company//1995//384//Action|Crime|Drama
+Bad Girls//1994//416//Western
+Balto//1995//13//Adventure|Animation|Children
+Barb Wire//1996//737//Action|Sci-Fi
+Barbarella//1968//674//Adventure|Comedy|Sci-Fi
+Barcelona//1994//417//Comedy|Romance
+Batman//1989//592//Action|Crime|Thriller
+Batman Forever//1995//153//Action|Adventure|Comedy|Crime
+Beautiful Girls//1996//94//Comedy|Drama|Romance
+Beauty and the Beast//1991//595//Animation|Children|Fantasy|Musical|Romance|IMAX
+Beauty of the Day//1967//154//Drama//Belle de jour 
+Bed of Roses//1996//74//Drama|Romance
+Before and After//1996//113//Drama|Mystery
+Before Sunrise//1995//215//Drama|Romance
+Before the Rain//1994//214//Drama|War//Pred dozhdot 
+Being Human//1993//418//Drama
+Beverly Hills Cop III//1994//420//Action|Comedy|Crime|Thriller
+Beyond Bedlam//1993//285//Drama|Horror
+Beyond Rangoon//1995//155//Adventure|Drama|War
+Bhaji on the Beach//1993//568//Comedy|Drama
+Big Bully//1996//75//Comedy|Drama
+Billy Madison//1995//216//Comedy
+Bio-Dome//1996//65//Comedy
+Bitter Moon//1992//347//Drama|Film-Noir|Romance
+Black Beauty//1994//421//Adventure|Children|Drama
+Black Sheep//1996//88//Comedy
+Blade Runner//1982//541//Action|Sci-Fi|Thriller
+Blink//1994//422//Thriller
+Bloodsport 2//1996//667//Action//a.k.a. Bloodsport II: The Next Kumite 
+Blown Away//1994//423//Action|Thriller
+Blue Chips//1994//424//Drama
+Blue in the Face//1995//156//Comedy|Drama
+Blue Sky//1994//425//Drama|Romance
+Body Snatchers//1993//426//Horror|Sci-Fi|Thriller
+Boomerang//1992//122//Comedy|Romance
+Bottle Rocket//1996//101//Adventure|Comedy|Crime|Romance
+Boxing Helena//1993//427//Drama|Mystery|Romance|Thriller
+Boys//1996//703//Drama
+Boys Life//1995//388//Drama
+Boys on the Side//1995//218//Comedy|Drama
+Braveheart//1995//110//Action|Drama|War
+Bread and Chocolate//1973//615//Comedy|Drama//Pane e cioccolata 
+Broken Arrow//1996//95//Action|Adventure|Thriller
+Bullets Over Broadway//1994//348//Comedy
+Burnt by the Sun//1994//213//Drama//Utomlyonnye solntsem 
+Bushwhacked//1995//212//Adventure|Comedy|Crime|Mystery
+Cabin Boy//1994//429//Comedy
+Calendar Girl//1993//430//Comedy|Drama
+Canadian Bacon//1995//157//Comedy|War
+Candyman: Farewell to the Flesh//1995//606//Fantasy|Horror
+Carlito's Way//1993//431//Crime|Drama
+Casino//1995//16//Crime|Drama
+Casper//1995//158//Adventure|Children
+Castle Freak//1995//220//Horror
+Catwalk//1996//108//Documentary
+Celtic Pride//1996//710//Comedy
+Cemetery Man//1994//735//Horror//Dellamorte Dellamore 
+Chasers//1994//564//Comedy
+Chungking Express//1994//123//Drama|Mystery|Romance//Chung Hing sam lam 
+Circle of Friends//1995//222//Drama|Romance
+City Hall//1996//100//Drama|Thriller
+City Slickers II: The Legend of Curly's Gold//1994//432//Adventure|Comedy|Western
+Clean Slate//1994//433//Comedy
+Clear and Present Danger//1994//349//Action|Crime|Drama|Thriller
+Clerks//1994//223//Comedy
+Cliffhanger//1993//434//Action|Adventure|Thriller
+Clockers//1995//159//Crime|Drama|Mystery
+Clueless//1995//39//Comedy|Romance
+Cobb//1994//354//Drama
+Cold Comfort Farm//1995//728//Comedy
+Cold Fever//1995//649//Comedy|Drama//Á köldum klaka 
+Color of Night//1994//436//Drama|Thriller
+Coneheads//1993//435//Comedy|Sci-Fi
+Congo//1995//160//Action|Adventure|Mystery|Sci-Fi
+Cops and Robbersons//1994//437//Comedy
+Copycat//1995//22//Crime|Drama|Horror|Mystery|Thriller
+Courage Under Fire//1996//647//Action|Crime|Drama|War
+Crimson Tide//1995//161//Drama|Thriller|War
+Crooklyn//1994//352//Comedy|Drama
+Crumb//1994//162//Documentary
+Cutthroat Island//1995//15//Action|Adventure|Romance
+Dances with Wolves//1990//590//Adventure|Drama|Western
+Dangerous Minds//1995//31//Drama
+Dave//1993//440//Comedy|Romance
+Daylight//1996//798//Action|Adventure|Drama|Thriller
+Dazed and Confused//1993//441//Comedy
+Dead Man//1995//714//Drama|Mystery|Western
+Dead Man Walking//1995//36//Crime|Drama
+Dead Presidents//1995//42//Action|Crime|Drama
+Dear Diary//1994//583//Comedy|Drama//Caro Diario 
+Death and the Maiden//1994//229//Drama|Thriller
+Delta of Venus//1995//698//Drama
+Demolition Man//1993//442//Action|Adventure|Sci-Fi
+Denise Calls Up//1995//633//Comedy
+Desperado//1995//163//Action|Romance|Western
+Destiny Turns on the Radio//1995//228//Comedy
+Devil in a Blue Dress//1995//164//Crime|Film-Noir|Mystery|Thriller
+Diabolique//1996//640//Drama|Thriller
+Die Hard: With a Vengeance//1995//165//Action|Crime|Thriller
+Disclosure//1994//225//Drama|Thriller
+Dolores Claiborne//1995//230//Drama|Thriller
+Don Juan DeMarco//1995//224//Comedy|Drama|Romance
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood//1996//63//Comedy|Crime
+Double Happiness//1994//341//Drama
+Down Periscope//1996//135//Comedy
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb//1964//750//Comedy|War
+Dracula: Dead and Loving It//1995//12//Comedy|Horror
+Dragonheart//1996//653//Action|Adventure|Fantasy
+Drop Zone//1994//227//Action|Thriller
+Dumb & Dumber//1994//231//Adventure|Comedy//Dumb and Dumber 
+Dunston Checks In//1996//87//Children|Comedy
+Eat Drink Man Woman//1994//232//Comedy|Drama|Romance//Yin shi nan nu 
+Ed//1996//619//Comedy
+Ed Wood//1994//235//Comedy|Drama
+Eddie//1996//656//Comedy
+Eraser//1996//786//Action|Drama|Thriller
+Even Cowgirls Get the Blues//1993//444//Comedy|Romance
+Executive Decision//1996//494//Action|Adventure|Thriller
+Exit to Eden//1994//234//Comedy
+Exotica//1994//233//Drama
+Eye for an Eye//1996//61//Drama|Thriller
+Fair Game//1995//71//Action
+Far From Home: The Adventures of Yellow Dog//1995//238//Adventure|Children
+Farewell My Concubine//1993//446//Drama|Romance//Ba wang bie ji 
+Fargo//1996//608//Comedy|Crime|Drama|Thriller
+Farinelli: il castrato//1994//242//Drama|Musical
+Faster Pussycat! Kill! Kill!//1965//390//Action|Crime|Drama
+Fatal Instinct//1993//445//Comedy
+Father of the Bride Part II//1995//5//Comedy
+Fear//1996//662//Thriller
+Fear of a Black Hat//1994//449//Comedy
+Fearless//1993//448//Drama
+Federal Hill//1994//406//Drama
+Feeling Minnesota//1996//697//Drama|Romance
+First Knight//1995//168//Action|Drama|Romance
+Flesh and Bone//1993//451//Drama|Mystery|Romance
+Flipper//1996//711//Adventure|Children
+Flirting With Disaster//1996//125//Comedy
+Fluke//1995//241//Children|Drama
+For Love or Money//1993//453//Comedy|Romance
+Forget Paris//1995//237//Comedy|Romance
+Forrest Gump//1994//356//Comedy|Drama|Romance|War
+Four Rooms//1995//18//Comedy
+Four Weddings and a Funeral//1994//357//Comedy|Romance
+Free Willy//1993//455//Adventure|Children|Drama
+Free Willy 2: The Adventure Home//1995//169//Adventure|Children|Drama
+French Kiss//1995//236//Action|Comedy|Romance
+French Twist//1995//68//Comedy|Romance//Gazon maudit 
+Fresh//1994//456//Crime|Drama|Thriller
+Friday//1995//69//Comedy
+Frisk//1995//636//Drama
+From Dusk Till Dawn//1996//70//Action|Comedy|Horror|Thriller
+Georgia//1995//55//Drama
+Germinal//1993//563//Drama|Romance
+Geronimo: An American Legend//1993//458//Drama|Western
+Get Shorty//1995//21//Comedy|Crime|Thriller
+Getting Even with Dad//1994//460//Comedy
+Ghost//1990//587//Comedy|Drama|Fantasy|Romance|Thriller
+Ghost in the Shell//1995//741//Animation|Sci-Fi//Kôkaku kidôtai 
+Girl 6//1996//639//Comedy|Drama
+Go Fish//1994//461//Drama|Romance
+GoldenEye//1995//10//Action|Adventure|Thriller
+Gordy//1995//243//Children|Comedy|Fantasy
+Grumpier Old Men//1995//3//Comedy|Romance
+Hackers//1995//170//Action|Adventure|Crime|Thriller
+Happy Gilmore//1996//104//Comedy
+Hard Target//1993//464//Action|Adventure|Crime|Thriller
+Harriet the Spy//1996//801//Children|Comedy
+Heat//1995//6//Action|Crime|Thriller
+Heaven's Prisoners//1996//731//Crime|Thriller
+Heavenly Creatures//1994//247//Crime|Drama
+Heavy//1995//764//Drama|Romance
+Heavy Metal//1981//610//Action|Adventure|Animation|Horror|Sci-Fi
+Heavyweights//1995//250//Children|Comedy//Heavy Weights 
+Heidi Fleiss: Hollywood Madam//1995//99//Documentary
+Hellraiser: Bloodline//1996//611//Action|Horror|Sci-Fi
+Hideaway//1995//240//Thriller
+Higher Learning//1995//358//Drama
+Highlander III: The Sorcerer//1994//405//Action|Fantasy//a.k.a. Highlander: The Final Dimension 
+Home Alone//1990//586//Children|Comedy
+Home for the Holidays//1995//57//Drama
+Homeward Bound II: Lost in San Francisco//1996//609//Adventure|Children
+Hoop Dreams//1994//246//Documentary
+Hot Shots! Part Deux//1993//466//Action|Comedy|War
+House Party 3//1994//470//Comedy
+Houseguest//1994//248//Comedy
+How to Make an American Quilt//1995//46//Drama|Romance
+I Like It Like That//1994//359//Comedy|Drama|Romance
+I Love Trouble//1994//360//Action|Comedy
+I Shot Andy Warhol//1996//766//Drama
+I'll Do Anything//1994//472//Comedy|Drama
+I.Q.//1994//252//Comedy|Romance
+If Lucy Fell//1996//118//Comedy|Romance
+Immortal Beloved//1994//249//Drama|Romance
+In the Army Now//1994//473//Comedy|War
+In the Bleak Midwinter//1995//96//Comedy|Drama
+In the Line of Fire//1993//474//Action|Thriller
+In the Mouth of Madness//1995//407//Horror|Thriller
+In the Name of the Father//1993//475//Drama
+In the Realm of the Senses//1976//495//Drama//Ai no corrida 
+Independence Day//1996//780//Action|Adventure|Sci-Fi|Thriller//a.k.a. ID4 
+Interview with the Vampire: The Vampire Chronicles//1994//253//Drama|Horror
+It Could Happen to You//1994//361//Comedy|Drama|Romance
+It Takes Two//1995//38//Children|Comedy
+It's My Party//1996//685//Drama
+Jack//1996//765//Comedy|Drama
+Jack and Sarah//1995//638//Romance
+Jade//1995//132//Thriller
+James and the Giant Peach//1996//661//Adventure|Animation|Children|Fantasy|Musical
+Jane Eyre//1996//613//Drama|Romance
+Jason's Lyric//1994//391//Crime|Drama
+Jefferson in Paris//1995//254//Drama
+Jeffrey//1995//171//Comedy|Drama
+Jimmy Hollywood//1994//478//Comedy|Crime|Drama
+Johnny Mnemonic//1995//172//Action|Sci-Fi|Thriller
+Judge Dredd//1995//173//Action|Crime|Sci-Fi
+Judgment Night//1993//479//Action|Crime|Thriller
+Jumanji//1995//2//Adventure|Children|Fantasy
+Junior//1994//256//Comedy|Sci-Fi
+Jupiter's Wife//1994//128//Documentary
+Jurassic Park//1993//480//Action|Adventure|Sci-Fi|Thriller
+Jury Duty//1995//174//Comedy
+Just Cause//1995//257//Mystery|Thriller
+Kalifornia//1993//481//Drama|Thriller
+Kicking and Screaming//1995//72//Comedy|Drama
+Kids//1995//175//Drama
+Kids in the Hall: Brain Candy//1996//663//Comedy
+Kika//1993//567//Comedy|Drama
+Killing Zoe//1994//482//Crime|Drama|Thriller
+Kingpin//1996//785//Comedy
+Kiss of Death//1995//259//Crime|Drama|Thriller
+Ladybird Ladybird//1994//263//Drama
+Lamerica//1994//53//Adventure|Drama
+Land and Freedom//1995//632//Drama|War//Tierra y libertad 
+Lassie//1994//484//Adventure|Children
+Last Action Hero//1993//485//Action|Adventure|Comedy|Fantasy
+Last Dance//1996//726//Drama
+Lawnmower Man 2: Beyond Cyberspace//1996//66//Action|Sci-Fi|Thriller
+Leaving Las Vegas//1995//25//Drama|Romance
+Legends of the Fall//1994//266//Drama|Romance|War|Western
+Life with Mikey//1993//486//Comedy
+Lightning Jack//1994//487//Comedy|Western
+Like Water for Chocolate//1992//265//Drama|Fantasy|Romance//Como agua para chocolate 
+Little Big League//1994//569//Comedy|Drama
+Little Buddha//1993//365//Drama
+Little Women//1994//261//Drama
+Live Nude Girls//1995//467//Comedy
+Living in Oblivion//1995//176//Comedy
+Lone Star//1996//800//Drama|Mystery|Western
+Lord of Illusions//1995//177//Horror
+Losing Isaiah//1995//271//Drama
+Love & Human Remains//1993//178//Comedy|Drama
+Love Affair//1994//270//Drama|Romance
+Love and a .45//1994//600//Action|Comedy|Crime
+Léon: The Professional//1994//293//Action|Crime|Drama|Thriller//a.k.a. The Professional //Léon 
+M. Butterfly//1993//488//Drama|Romance
+Mad Love//1995//179//Drama|Romance
+Made in America//1993//489//Comedy
+Major Payne//1995//267//Comedy
+Malice//1993//490//Thriller
+Mallrats//1995//180//Comedy|Romance
+Man of the House//1995//274//Comedy
+Man of the Year//1995//137//Documentary
+Manhattan Murder Mystery//1993//492//Comedy|Mystery
+Mary Reilly//1996//92//Drama|Horror|Thriller
+Mary Shelley's Frankenstein//1994//273//Drama|Horror|Sci-Fi//Frankenstein 
+Maverick//1994//368//Adventure|Comedy|Western
+Maya Lin: A Strong Clear Vision//1994//759//Documentary
+Menace II Society//1993//493//Action|Crime|Drama
+Miami Rhapsody//1995//278//Comedy
+Mighty Aphrodite//1995//52//Comedy|Drama|Romance
+Mighty Morphin Power Rangers: The Movie//1995//181//Action|Children
+Milk Money//1994//276//Comedy|Romance
+Miracle on 34th Street//1994//277//Drama
+Mission: Impossible//1996//648//Action|Adventure|Mystery|Thriller
+Mixed Nuts//1994//275//Comedy
+Moll Flanders//1996//650//Drama
+Money Train//1995//20//Action|Comedy|Crime|Drama|Thriller
+Mortal Kombat//1995//44//Action|Adventure|Fantasy
+Mr. Holland's Opus//1995//62//Drama
+Mr. Wonderful//1993//499//Comedy|Romance
+Mr. Wrong//1996//102//Comedy
+Mrs. Doubtfire//1993//500//Comedy|Drama
+Mrs. Parker and the Vicious Circle//1994//369//Drama
+Mrs. Winterbourne//1996//691//Comedy|Romance
+Much Ado About Nothing//1993//497//Comedy|Romance
+Mulholland Falls//1996//707//Crime|Drama|Thriller
+Multiplicity//1996//719//Comedy
+Muppet Treasure Island//1996//107//Adventure|Children|Comedy|Musical
+Murder in the First//1995//280//Drama|Thriller
+Muriel's Wedding//1994//342//Comedy
+Mute Witness//1994//183//Comedy|Horror|Thriller
+My Crazy Life//1993//269//Drama//Mi vida loca 
+My Family//1995//279//Drama
+Mystery Science Theater 3000: The Movie//1996//671//Comedy|Sci-Fi
+Nadja//1994//184//Drama
+Naked//1993//501//Drama
+Naked Gun 33 1/3: The Final Insult//1994//370//Action|Comedy
+National Lampoon's Senior Trip//1995//325//Comedy
+Natural Born Killers//1994//288//Action|Crime|Thriller
+Nell//1994//282//Drama
+Nelly & Monsieur Arnaud//1995//645//Drama
+New Jersey Drive//1995//283//Crime|Drama
+New York Cop//1993//284//Action|Crime//Nyû Yôku no koppu 
+Nick of Time//1995//89//Action|Thriller
+Nico Icon//1995//77//Documentary
+Nina Takes a Lover//1994//287//Comedy|Romance
+Nine Months//1995//186//Comedy|Romance
+Nixon//1995//14//Drama
+No Escape//1994//504//Action|Drama|Sci-Fi
+Nobody Loves Me//1994//106//Comedy|Drama//Keiner liebt mich 
+Nobody's Fool//1994//281//Comedy|Drama|Romance
+North//1994//505//Comedy
+Now and Then//1995//27//Children|Drama
+Oliver & Company//1988//709//Adventure|Animation|Children|Comedy|Musical
+Once Upon a Time... When We Were Colored//1995//83//Drama|Romance
+Once Were Warriors//1994//290//Crime|Drama
+One Fine Day//1996//605//Drama|Romance
+Only You//1994//289//Comedy|Romance
+Operation Dumbo Drop//1995//688//Action|Adventure|Comedy|War
+Orlando//1992//506//Drama|Fantasy|Romance
+Othello//1995//26//Drama
+Outbreak//1995//292//Action|Drama|Sci-Fi|Thriller
+Party Girl//1995//187//Comedy
+Persuasion//1995//28//Drama|Romance
+Phenomenon//1996//802//Drama|Romance
+Philadelphia//1993//508//Drama
+Picture Bride//1994//301//Drama|Romance//Bijo photo 
+Pie in the Sky//1996//129//Comedy|Romance
+Pinocchio//1940//596//Animation|Children|Fantasy|Musical
+Pocahontas//1995//48//Animation|Children|Drama|Musical|Romance
+Poetic Justice//1993//510//Drama
+Poison Ivy II//1996//291//Drama|Thriller
+Powder//1995//24//Drama|Sci-Fi
+Pretty Woman//1990//597//Comedy|Romance
+Priest//1994//299//Drama
+Primal Fear//1996//628//Crime|Drama|Mystery|Thriller
+Princess Caraboo//1994//580//Drama
+Pulp Fiction//1994//296//Comedy|Crime|Drama|Thriller
+Pushing Hands//1992//298//Drama//Tui shou 
+Quiz Show//1994//300//Drama
+Radioland Murders//1994//513//Comedy|Mystery|Romance
+Ready to Wear//1994//305//Comedy//Pret-A-Porter 
+Reality Bites//1994//372//Comedy|Drama|Romance
+Reckless//1995//189//Comedy|Fantasy
+Red Rock West//1992//373//Thriller
+Relative Fear//1994//311//Horror|Thriller
+Renaissance Man//1994//516//Comedy|Drama
+Rent-a-Kid//1995//310//Comedy
+Restoration//1995//43//Drama
+Richard III//1995//41//Drama|War
+Richie Rich//1994//374//Children|Comedy
+Rising Sun//1993//517//Action|Drama|Mystery
+Rob Roy//1995//151//Action|Drama|Romance|War
+Robin Hood: Men in Tights//1993//520//Comedy
+RoboCop 3//1993//519//Action|Crime|Drama|Sci-Fi|Thriller
+Romeo Is Bleeding//1993//521//Crime|Thriller
+Romper Stomper//1992//522//Action|Drama
+Roommates//1995//304//Comedy|Drama
+Ruby in Paradise//1993//523//Drama
+Rudy//1993//524//Drama
+Rumble in the Bronx//1995//112//Action|Adventure|Comedy|Crime//Hont faan kui 
+S.F.W.//1994//386//Drama
+Sabrina//1995//7//Comedy|Romance
+Safe//1995//190//Thriller
+Schindler's List//1993//527//Drama|War
+Screamers//1995//76//Action|Sci-Fi|Thriller
+Searching for Bobby Fischer//1993//529//Drama
+Sense and Sensibility//1995//17//Drama|Romance
+Serial Mom//1994//532//Comedy|Crime|Horror
+Seven//1995//47//Mystery|Thriller//a.k.a. Se7en 
+Sgt. Bilko//1996//637//Comedy
+Shadowlands//1993//534//Drama|Romance
+Shallow Grave//1994//319//Comedy|Drama|Thriller
+Shanghai Triad//1995//30//Crime|Drama//Yao a yao yao dao waipo qiao 
+She's the One//1996//804//Comedy|Romance
+Short Cuts//1993//535//Drama
+Showgirls//1995//193//Drama
+Sirens//1994//537//Drama
+Six Degrees of Separation//1993//538//Drama
+Sleepless in Seattle//1993//539//Comedy|Drama|Romance
+Sliver//1993//540//Thriller
+Smoke//1995//194//Comedy|Drama
+Snow White and the Seven Dwarfs//1937//594//Animation|Children|Drama|Fantasy|Musical
+So I Married an Axe Murderer//1993//543//Comedy|Romance|Thriller
+Solo//1996//692//Action|Sci-Fi|Thriller
+Some Folks Call It a Sling Blade//1993//678//Drama|Thriller
+Somebody to Love//1994//795//Drama
+Something to Talk About//1995//195//Comedy|Drama|Romance
+Son in Law//1993//542//Comedy|Drama|Romance
+Song of the Little Road//1955//668//Drama//Pather Panchali 
+Space Jam//1996//673//Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+Spanking the Monkey//1994//574//Comedy|Drama
+Species//1995//196//Horror|Sci-Fi
+Speechless//1994//378//Comedy|Romance
+Speed//1994//377//Action|Romance|Thriller
+Spirits of the Dead//1968//775//Horror|Mystery
+Spy Hard//1996//743//Comedy
+Stalingrad//1993//760//Drama|War
+Star Trek: Generations//1994//329//Adventure|Drama|Sci-Fi
+Star Wars: Episode IV - A New Hope//1977//260//Action|Adventure|Sci-Fi
+Stargate//1994//316//Action|Adventure|Sci-Fi
+Stealing Beauty//1996//781//Drama
+Strange Days//1995//198//Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+Strawberry and Chocolate//1993//321//Drama//Fresa y chocolate 
+Street Fighter//1994//393//Action|Adventure|Fantasy
+Striking Distance//1993//544//Action|Crime
+Striptease//1996//762//Comedy|Crime
+Stuart Saves His Family//1995//312//Comedy
+Sudden Death//1995//9//Action
+Sunset Park//1996//706//Drama
+Super Mario Bros.//1993//546//Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+Surviving the Game//1994//547//Action|Adventure|Thriller
+Suture//1993//320//Film-Noir|Thriller
+Swimming with Sharks//1995//322//Comedy|Drama
+Tales from the Crypt Presents: Demon Knight//1995//328//Horror|Thriller
+Tales from the Hood//1995//330//Action|Crime|Horror
+Tank Girl//1995//327//Action|Comedy|Sci-Fi
+Taxi Driver//1976//111//Crime|Drama|Thriller
+Terminal Velocity//1994//548//Action|Mystery|Thriller
+Terminator 2: Judgment Day//1991//589//Action|Sci-Fi
+Theodore Rex//1995//634//Comedy
+Things to Do in Denver When You're Dead//1995//81//Crime|Drama|Romance
+Thinner//1996//742//Horror|Thriller
+Thirty-Two Short Films About Glenn Gould//1993//549//Drama|Musical
+Three Colors: Blue//1993//307//Drama//Trois couleurs: Bleu 
+Three Colors: Red//1994//306//Drama//Trois couleurs: Rouge 
+Three Colors: White//1994//308//Comedy|Drama//Trzy kolory: Bialy 
+Three Wishes//1995//201//Drama|Fantasy
+Threesome//1994//550//Comedy|Romance
+Timecop//1994//379//Action|Sci-Fi|Thriller
+To Die For//1995//45//Comedy|Drama|Thriller
+To Live//1994//326//Drama//Huozhe 
+Tom & Viv//1994//331//Drama
+Tom and Huck//1995//8//Adventure|Children
+Tombstone//1993//553//Action|Drama|Western
+Tommy Boy//1995//333//Comedy
+Total Eclipse//1995//202//Drama|Romance
+Touki Bouki//1973//773//Drama
+Toy Story//1995//1//Adventure|Animation|Children|Comedy|Fantasy
+Trainspotting//1996//778//Comedy|Crime|Drama
+True Crime//1996//695//Mystery|Thriller
+True Lies//1994//380//Action|Adventure|Comedy|Romance|Thriller
+True Romance//1993//555//Crime|Thriller
+Twelve Monkeys//1995//32//Mystery|Sci-Fi|Thriller//a.k.a. 12 Monkeys 
+Twister//1996//736//Action|Adventure|Romance|Thriller
+Two if by Sea//1996//64//Comedy|Romance
+Two Much//1995//618//Comedy|Romance
+Under Siege 2: Dark Territory//1995//204//Action
+Underground//1995//665//Comedy|Drama|War
+Underneath//1995//335//Mystery|Thriller
+Unforgettable//1996//103//Mystery|Sci-Fi|Thriller
+Unstrung Heroes//1995//205//Comedy|Drama
+Unzipped//1995//206//Documentary
+Up Close and Personal//1996//140//Drama|Romance
+Vampire in Brooklyn//1995//93//Comedy|Horror|Romance
+Vanya on 42nd Street//1994//334//Drama
+Village of the Damned//1995//332//Horror|Sci-Fi
+Virtuosity//1995//338//Action|Sci-Fi|Thriller
+Waiting to Exhale//1995//4//Comedy|Drama|Romance
+Walking and Talking//1996//803//Comedy|Drama|Romance
+Wallace & Gromit: A Close Shave//1995//745//Animation|Children|Comedy
+Wallace & Gromit: The Best of Aardman Animation//1996//720//Adventure|Animation|Comedy
+Waterworld//1995//208//Action|Adventure|Sci-Fi
+Welcome to the Dollhouse//1995//562//Comedy|Drama
+What Happened Was...//1994//496//Comedy|Drama|Romance|Thriller
+What's Eating Gilbert Grape//1993//337//Drama
+What's Love Got to Do with It?//1993//477//Drama|Musical
+When a Man Loves a Woman//1994//381//Drama|Romance
+When Night Is Falling//1995//49//Drama|Romance
+While You Were Sleeping//1995//339//Comedy|Romance
+White Man's Burden//1995//209//Drama
+White Squall//1996//86//Action|Adventure|Drama
+Widows' Peak//1994//452//Drama
+Wild Bill//1995//210//Western
+With Honors//1994//450//Comedy|Drama
+Wolf//1994//382//Drama|Horror|Romance|Thriller
+Wyatt Earp//1994//383//Western
+
