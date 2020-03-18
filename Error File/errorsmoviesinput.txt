@@ -1,0 +1,542 @@
+ Hassan Akbar
+ CISC 3130
+ Professor Chuang
+ HW 1
+
+List of errors and line they appear on
+File: moviesinput.txt
+
+Error Number: 1
+Error on Line Number : 12
+11,American President, The (1995),Comedy|Drama|Romance
+
+Error Number: 2
+Error on Line Number : 30
+29,City of Lost Children, The (Cité des enfants perdus, La) (1995),Adventure|Drama|Fantasy|Mystery|Sci-Fi
+
+Error Number: 3
+Error on Line Number : 38
+40,Cry, the Beloved Country (1995),Drama
+
+Error Number: 4
+Error on Line Number : 48
+50,Usual Suspects, The (1995),Crime|Mystery|Thriller
+
+Error Number: 5
+Error on Line Number : 51
+54,Big Green, The (1995),Children|Comedy
+
+Error Number: 6
+Error on Line Number : 54
+58,Postman, The (Postino, Il) (1994),Comedy|Drama|Romance
+
+Error Number: 7
+Error on Line Number : 55
+60,"Indian in the Cupboard, The (1995)",Adventure|Children|Fantasy
+
+Error Number: 8
+Error on Line Number : 67
+73,Misérables, Les (1995),Drama|War
+
+Error Number: 9
+Error on Line Number : 72
+78,Crossing Guard, The (1995),Action|Crime|Drama|Thriller
+
+Error Number: 10
+Error on Line Number : 73
+79,"Juror, The (1996)",Drama|Thriller
+
+Error Number: 11
+Error on Line Number : 74
+80,"White Balloon, The (Badkonake sefid) (1995)",Children|Drama
+
+Error Number: 12
+Error on Line Number : 88
+97,Hate (Haine, La) (1995),Crime|Drama
+
+Error Number: 13
+Error on Line Number : 95
+105,Bridges of Madison County, The (1995),Drama|Romance
+
+Error Number: 14
+Error on Line Number : 104
+117,Young Poisoner's Handbook, The (1995),Crime|Drama
+
+Error Number: 15
+Error on Line Number : 106
+119,Steal Big, Steal Little (1995),Comedy
+
+Error Number: 16
+Error on Line Number : 107
+121,"Boys of St. Vincent, The (1992)",Drama
+
+Error Number: 17
+Error on Line Number : 111
+126,NeverEnding Story III, The (1994),Adventure|Children|Fantasy
+
+Error Number: 18
+Error on Line Number : 118
+141,Birdcage, The (1996),Comedy
+
+Error Number: 19
+Error on Line Number : 119
+144,"Brothers McMullen, The (1995)",Comedy
+
+Error Number: 20
+Error on Line Number : 121
+146,Amazing Panda Adventure, The (1995),Adventure|Children
+
+Error Number: 21
+Error on Line Number : 122
+147,"Basketball Diaries, The (1995)",Drama
+
+Error Number: 22
+Error on Line Number : 123
+148,"Awfully Big Adventure, An (1995)",Drama
+
+Error Number: 23
+Error on Line Number : 127
+152,Addiction, The (1995),Drama|Horror
+
+Error Number: 24
+Error on Line Number : 141
+166,Doom Generation, The (1995),Comedy|Crime|Drama
+
+Error Number: 25
+Error on Line Number : 158
+185,Net, The (1995),Action|Crime|Thriller
+
+Error Number: 26
+Error on Line Number : 161
+188,Prophecy, The (1995),Fantasy|Horror|Mystery
+
+Error Number: 27
+Error on Line Number : 164
+191,Scarlet Letter, The (1995),Drama|Romance
+
+Error Number: 28
+Error on Line Number : 170
+199,Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964),Drama|Musical|Romance
+
+Error Number: 29
+Error on Line Number : 173
+203,To Wong Foo, Thanks for Everything! Julie Newmar (1995),Comedy
+
+Error Number: 30
+Error on Line Number : 177
+207,Walk in the Clouds, A (1995),Drama|Romance
+
+Error Number: 31
+Error on Line Number : 181
+211,Browning Version, The (1994),Drama
+
+Error Number: 32
+Error on Line Number : 187
+217,Babysitter, The (1995),Drama|Thriller
+
+Error Number: 33
+Error on Line Number : 189
+219,Cure, The (1995),Drama
+
+Error Number: 34
+Error on Line Number : 207
+239,Goofy Movie, A (1995),Animation|Children|Comedy|Romance
+
+Error Number: 35
+Error on Line Number : 217
+251,Hunted, The (1995),Action
+
+Error Number: 36
+Error on Line Number : 221
+255,Jerky Boys, The (1995),Comedy
+
+Error Number: 37
+Error on Line Number : 224
+258,Kid in King Arthur's Court, A (1995),Adventure|Children|Comedy|Fantasy|Romance
+
+Error Number: 38
+Error on Line Number : 228
+262,Little Princess, A (1995),Children|Drama
+
+Error Number: 39
+Error on Line Number : 236
+272,Madness of King George, The (1994),Comedy|Drama
+
+Error Number: 40
+Error on Line Number : 257
+294,Perez Family, The (1995),Comedy|Romance
+
+Error Number: 41
+Error on Line Number : 258
+295,"Pyromaniac's Love Story, A (1995)",Comedy|Romance
+
+Error Number: 42
+Error on Line Number : 264
+302,Queen Margot (Reine Margot, La) (1994),Drama|Romance
+
+Error Number: 43
+Error on Line Number : 265
+303,"Quick and the Dead, The (1995)",Action|Thriller|Western
+
+Error Number: 44
+Error on Line Number : 274
+313,Swan Princess, The (1994),Animation|Children
+
+Error Number: 45
+Error on Line Number : 275
+314,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery
+
+Error Number: 46
+Error on Line Number : 276
+315,"Specialist, The (1994)",Action|Drama|Thriller
+
+Error Number: 47
+Error on Line Number : 278
+317,Santa Clause, The (1994),Comedy|Drama|Fantasy
+
+Error Number: 48
+Error on Line Number : 279
+318,"Shawshank Redemption, The (1994)",Crime|Drama
+
+Error Number: 49
+Error on Line Number : 284
+324,Sum of Us, The (1994),Comedy|Drama
+
+Error Number: 50
+Error on Line Number : 296
+336,Walking Dead, The (1995),Drama|War
+
+Error Number: 51
+Error on Line Number : 300
+340,War, The (1994),Adventure|Drama|War
+
+Error Number: 52
+Error on Line Number : 303
+343,Baby-Sitters Club, The (1995),Children
+
+Error Number: 53
+Error on Line Number : 305
+345,Adventures of Priscilla, Queen of the Desert, The (1994),Comedy|Drama
+
+Error Number: 54
+Error on Line Number : 310
+350,Client, The (1994),Drama|Mystery|Thriller
+
+Error Number: 55
+Error on Line Number : 311
+351,"Corrina, Corrina (1994)",Comedy|Drama|Romance
+
+Error Number: 56
+Error on Line Number : 313
+353,Crow, The (1994),Action|Crime|Fantasy|Thriller
+
+Error Number: 57
+Error on Line Number : 315
+355,Flintstones, The (1994),Children|Comedy|Fantasy
+
+Error Number: 58
+Error on Line Number : 322
+362,Jungle Book, The (1994),Adventure|Children|Romance
+
+Error Number: 59
+Error on Line Number : 323
+363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)",Documentary
+
+Error Number: 60
+Error on Line Number : 324
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+
+Error Number: 61
+Error on Line Number : 326
+366,Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994),Drama|Horror|Mystery|Thriller
+
+Error Number: 62
+Error on Line Number : 327
+367,"Mask, The (1994)",Action|Comedy|Crime|Fantasy
+
+Error Number: 63
+Error on Line Number : 331
+371,Paper, The (1994),Comedy|Drama
+
+Error Number: 64
+Error on Line Number : 335
+376,River Wild, The (1994),Action|Thriller
+
+Error Number: 65
+Error on Line Number : 344
+385,Man of No Importance, A (1994),Drama
+
+Error Number: 66
+Error on Line Number : 346
+387,Low Down Dirty Shame, A (1994),Action|Comedy
+
+Error Number: 67
+Error on Line Number : 348
+389,Colonel Chabert, Le (1994),Drama|Romance|War
+
+Error Number: 68
+Error on Line Number : 358
+412,Age of Innocence, The (1993),Drama
+
+Error Number: 69
+Error on Line Number : 360
+414,Air Up There, The (1994),Comedy
+
+Error Number: 70
+Error on Line Number : 365
+419,Beverly Hillbillies, The (1993),Comedy
+
+Error Number: 71
+Error on Line Number : 374
+428,Bronx Tale, A (1993),Drama
+
+Error Number: 72
+Error on Line Number : 384
+438,Cowboy Way, The (1994),Action|Comedy|Drama
+
+Error Number: 73
+Error on Line Number : 397
+454,Firm, The (1993),Drama|Thriller
+
+Error Number: 74
+Error on Line Number : 400
+457,Fugitive, The (1993),Thriller
+
+Error Number: 75
+Error on Line Number : 402
+459,Getaway, The (1994),Action|Adventure|Crime|Drama|Romance|Thriller
+
+Error Number: 76
+Error on Line Number : 408
+468,Englishman Who Went Up a Hill But Came Down a Mountain, The (1995),Comedy|Romance
+
+Error Number: 77
+Error on Line Number : 409
+469,"House of the Spirits, The (1993)",Drama|Romance
+
+Error Number: 78
+Error on Line Number : 411
+471,Hudsucker Proxy, The (1994),Comedy
+
+Error Number: 79
+Error on Line Number : 416
+476,Inkwell, The (1994),Comedy|Drama
+
+Error Number: 80
+Error on Line Number : 430
+491,Man Without a Face, The (1993),Drama
+
+Error Number: 81
+Error on Line Number : 440
+502,Next Karate Kid, The (1994),Action|Children|Romance
+
+Error Number: 82
+Error on Line Number : 444
+507,Perfect World, A (1993),Crime|Drama|Thriller
+
+Error Number: 83
+Error on Line Number : 446
+509,Piano, The (1993),Drama|Romance
+
+Error Number: 84
+Error on Line Number : 448
+511,Program, The (1993),Action|Drama
+
+Error Number: 85
+Error on Line Number : 449
+512,"Puppet Masters, The (1994)",Horror|Sci-Fi
+
+Error Number: 86
+Error on Line Number : 451
+514,Ref, The (1994),Comedy
+
+Error Number: 87
+Error on Line Number : 452
+515,"Remains of the Day, The (1993)",Drama|Romance
+
+Error Number: 88
+Error on Line Number : 455
+518,Road to Wellville, The (1994),Comedy
+
+Error Number: 89
+Error on Line Number : 462
+526,Savage Nights (Nuits fauves, Les) (1992),Drama
+
+Error Number: 90
+Error on Line Number : 464
+528,Scout, The (1994),Comedy|Drama
+
+Error Number: 91
+Error on Line Number : 466
+531,Secret Garden, The (1993),Children|Drama
+
+Error Number: 92
+Error on Line Number : 468
+533,Shadow, The (1994),Action|Adventure|Fantasy|Mystery
+
+Error Number: 93
+Error on Line Number : 471
+536,Simple Twist of Fate, A (1994),Drama
+
+Error Number: 94
+Error on Line Number : 485
+551,Nightmare Before Christmas, The (1993),Animation|Children|Fantasy|Musical
+
+Error Number: 95
+Error on Line Number : 486
+552,"Three Musketeers, The (1993)",Action|Adventure|Comedy|Romance
+
+Error Number: 96
+Error on Line Number : 489
+556,War Room, The (1993),Documentary
+
+Error Number: 97
+Error on Line Number : 490
+558,"Pagemaster, The (1994)",Action|Adventure|Animation|Children|Fantasy
+
+Error Number: 98
+Error on Line Number : 497
+573,Ciao, Professore! (Io speriamo che me la cavo) (1992),Drama
+
+Error Number: 99
+Error on Line Number : 499
+575,Little Rascals, The (1994),Children|Comedy
+
+Error Number: 100
+Error on Line Number : 501
+579,Escort, The (Scorta, La) (1993),Crime|Thriller
+
+Error Number: 101
+Error on Line Number : 503
+581,Celluloid Closet, The (1995),Documentary
+
+Error Number: 102
+Error on Line Number : 505
+585,Brady Bunch Movie, The (1995),Comedy
+
+Error Number: 103
+Error on Line Number : 512
+593,Silence of the Lambs, The (1991),Crime|Horror|Thriller
+
+Error Number: 104
+Error on Line Number : 517
+599,Wild Bunch, The (1969),Adventure|Western
+
+Error Number: 105
+Error on Line Number : 519
+602,Great Day in Harlem, A (1994),Documentary
+
+Error Number: 106
+Error on Line Number : 526
+612,Pallbearer, The (1996),Comedy
+
+Error Number: 107
+Error on Line Number : 529
+616,Aristocats, The (1970),Animation|Children
+
+Error Number: 108
+Error on Line Number : 530
+617,"Flower of My Secret, The (La flor de mi secreto) (1995)",Comedy|Drama
+
+Error Number: 109
+Error on Line Number : 533
+626,Thin Line Between Love and Hate, A (1996),Comedy
+
+Error Number: 110
+Error on Line Number : 534
+627,"Last Supper, The (1995)",Drama|Thriller
+
+Error Number: 111
+Error on Line Number : 540
+635,Family Thing, A (1996),Comedy|Drama
+
+Error Number: 112
+Error on Line Number : 559
+670,World of Apu, The (Apur Sansar) (1959),Drama
+
+Error Number: 113
+Error on Line Number : 564
+679,Run of the Country, The (1995),Drama
+
+Error Number: 114
+Error on Line Number : 565
+680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)",Drama|Mystery|Romance|Sci-Fi|Thriller
+
+Error Number: 115
+Error on Line Number : 570
+694,Substitute, The (1996),Action|Crime|Drama
+
+Error Number: 116
+Error on Line Number : 576
+704,Quest, The (1996),Action|Adventure
+
+Error Number: 117
+Error on Line Number : 579
+708,Truth About Cats & Dogs, The (1996),Comedy|Romance
+
+Error Number: 118
+Error on Line Number : 584
+715,Horseman on the Roof, The (Hussard sur le toit, Le) (1995),Drama|Romance
+
+Error Number: 119
+Error on Line Number : 585
+718,"Visitors, The (Visiteurs, Les) (1993)",Comedy|Fantasy|Sci-Fi
+
+Error Number: 120
+Error on Line Number : 588
+722,Haunted World of Edward D. Wood Jr., The (1996),Documentary
+
+Error Number: 121
+Error on Line Number : 589
+724,"Craft, The (1996)",Drama|Fantasy|Horror|Thriller
+
+Error Number: 122
+Error on Line Number : 590
+725,"Great White Hype, The (1996)",Comedy
+
+Error Number: 123
+Error on Line Number : 594
+733,Rock, The (1996),Action|Adventure|Thriller
+
+Error Number: 124
+Error on Line Number : 602
+747,Stupids, The (1996),Comedy
+
+Error Number: 125
+Error on Line Number : 603
+748,"Arrival, The (1996)",Action|Sci-Fi|Thriller
+
+Error Number: 126
+Error on Line Number : 608
+761,Phantom, The (1996),Action|Adventure
+
+Error Number: 127
+Error on Line Number : 619
+782,Fan, The (1996),Drama|Thriller
+
+Error Number: 128
+Error on Line Number : 620
+783,"Hunchback of Notre Dame, The (1996)",Animation|Children|Drama|Musical|Romance
+
+Error Number: 129
+Error on Line Number : 621
+784,"Cable Guy, The (1996)",Comedy|Thriller
+
+Error Number: 130
+Error on Line Number : 624
+788,Nutty Professor, The (1996),Comedy|Fantasy|Romance|Sci-Fi
+
+Error Number: 131
+Error on Line Number : 625
+790,"Unforgettable Summer, An (Un été inoubliable) (1994)",Drama
+
+Error Number: 132
+Error on Line Number : 626
+791,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1994)",Documentary
+
+Error Number: 133
+Error on Line Number : 629
+799,Frighteners, The (1996),Comedy|Horror|Thriller
+
+
+Number of Errors in file : 133
